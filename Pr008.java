@@ -39,7 +39,7 @@ class Pr008 {
 		range = bmw.range();
 		System.out.println("BMW X5 проедет на полном баке " + range + " км");
 
-
+//yes
 		System.out.println("\nИнформация о Mercedes SLC 43: ");
 
 		Avto mercedes = new Avto();
